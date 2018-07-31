@@ -10,7 +10,7 @@
     <Button
         android:id="@+id/camera_btn"
         style="@style/Base.Widget.AppCompat.Button.Borderless"
-        android:text="@string/image_picker_camera_btn"
+        android:text="相机"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
 
@@ -18,7 +18,7 @@
         android:id="@+id/album_btn"
         android:layout_marginTop="8dp"
         style="@style/Base.Widget.AppCompat.Button.Borderless"
-        android:text="@string/image_picker_album_btn"
+        android:text="相册"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
 </LinearLayout>
